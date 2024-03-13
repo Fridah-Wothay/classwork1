@@ -1,0 +1,73 @@
+#dribble{
+    display: flex;
+    justify-content: center;
+    gap: 5%;
+}
+#button1{
+    color: aliceblue;
+    background-color: blue;
+    border-radius: 20%;
+    width: 4%;
+}
+#touch{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+#April{
+    display: flex;
+    justify-content: center;
+    gap: 5%;
+
+}
+#store{
+    text-align: center;
+    
+}
+#hood{
+    display: flex;
+    justify-content: center;
+}
+#button2{
+    color: aliceblue;
+    background-color: black;
+}
+#for{
+    display: flex;
+    justify-content: center;
+}
+#half{
+    display: flex;
+    justify-content: center;
+}
+#pants{
+    display: flex;
+    justify-content: center;
+}
+#new{
+    text-align: left;
+}
+#style{
+    display: flex;
+    justify-content: center;
+    gap: 5%;
+}
+#him{
+display: flex;
+justify-content: center;
+}
+#shirt{
+    display: flex;
+    justify-content: center;
+}
+#place{
+    display: flex;
+    justify-content: center;
+    gap: 15%;
+}
+@media all and (max-width: 500px){
+
+ body{}
+
+}
