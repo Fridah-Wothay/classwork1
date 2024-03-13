@@ -21,13 +21,11 @@
     gap: 5%;
 
 }
-#store{
-    text-align: center;
-    
-}
+
 #hood{
     display: flex;
     justify-content: center;
+    
 }
 #button2{
     color: aliceblue;
@@ -65,6 +63,9 @@ justify-content: center;
     display: flex;
     justify-content: center;
     gap: 15%;
+}
+#hello{
+    text-align: justify;
 }
 @media all and (max-width: 500px){
 
